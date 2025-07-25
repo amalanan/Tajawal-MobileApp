@@ -20,7 +20,7 @@ class _ChatsScreenState extends State<ChatsScreen> {
           appBar: AppBar(
             backgroundColor: Colors.white,
             title: Text(
-              'الإعلانات',
+              'المحادثات',
               style: GoogleFonts.tajawal(
                 textStyle: TextStyle(fontWeight: FontWeight.bold, fontSize: 16),
               ),
